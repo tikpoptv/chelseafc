@@ -788,15 +788,15 @@
   font-family: 'Mitr-Medium';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/Mitr-Medium.ttf);
+  src: url(../fonts/Mitr-Medium.ttf);
 }@font-face {
   font-family: 'Mitr-Light';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/Mitr-Light.ttf);
+  src: url(../fonts/Mitr-Light.ttf);
 }@font-face {
   font-family: 'Mitr-Bold';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/Mitr-Bold.ttf);
+  src: url(../fonts/Mitr-Bold.ttf);
 }
